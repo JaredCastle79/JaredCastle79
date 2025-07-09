@@ -1,16 +1,19 @@
 ## Hi there 👋
+# ¡Hola! 👋 Soy Jared Vargas  
+**Analista de Datos Jr | Python | SQL | Tableau**  
 
-<!--
-**JaredCastle79/JaredCastle79** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 **Sobre mí:**  
+Egresado del Bootcamp de Data Analyst en TripleTen y estudiante de Economía en la UNAM. Apasionado por transformar datos en insights accionables.  
 
-Here are some ideas to get you started:
+🔧 **Tecnologías:**  
+- **Lenguajes:** Python (Pandas, NumPy), SQL  
+- **Visualización:** Tableau, Power BI, Matplotlib  
+- **Herramientas:** Git, Excel Avanzado  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 **Proyectos destacados:**  
+1. [Análisis de eficiencia en telecomunicaciones](enlace_repo) - Reducción del 15% en tiempo de espera.  
+2. [Modelo de retención para gimnasios](enlace_repo) - Identificación de clientes en riesgo de churn.  
+
+📫 **Contáctame:**  
+[LinkedIn](https://linkedin.com/in/jared-vargas-data) | mateovm7910@gmail.com  
+
