@@ -15,5 +15,5 @@ Egresado del Bootcamp de Data Analyst en TripleTen y estudiante de Economía en 
 2. [Modelo de retención para gimnasios](enlace_repo) - Identificación de clientes en riesgo de churn.  
 
 📫 **Contáctame:**  
-[LinkedIn](https://linkedin.com/in/jared-vargas-data) | mateovm7910@gmail.com  
+[LinkedIn](https://linkedin.com/in/jared-vargas-data) | lic.jaredvargas79@gmail.com
 
