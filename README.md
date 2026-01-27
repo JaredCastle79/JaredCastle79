@@ -10,9 +10,7 @@ Egresado del Bootcamp de Data Analyst en TripleTen y estudiante de Economía en 
 - **Visualización:** Tableau, Power BI, Matplotlib  
 - **Herramientas:** Git, Excel Avanzado  
 
-🚀 **Proyectos destacados:**  
-1. [Análisis de eficiencia en telecomunicaciones](enlace_repo) - Reducción del 15% en tiempo de espera.  
-2. [Modelo de retención para gimnasios](enlace_repo) - Identificación de clientes en riesgo de churn.  
+  
 
 📫 **Contáctame:**  
 [LinkedIn](https://linkedin.com/in/jared-vargas-data) | lic.jaredvargas79@gmail.com
