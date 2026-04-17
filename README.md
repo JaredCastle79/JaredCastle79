@@ -8,7 +8,7 @@ Egresado del Bootcamp de Data Analyst en TripleTen y estudiante de Economía en 
 🔧 **Tecnologías:**  
 - **Lenguajes:** Python (Pandas, NumPy), SQL  
 - **Visualización:** Tableau, Power BI, Matplotlib  
-- **Herramientas:** Git, Excel Avanzado  
+- **Herramientas:** Excel   
 
   
 
